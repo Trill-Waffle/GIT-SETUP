@@ -1,7 +1,15 @@
 
+<<<<<<< HEAD
 line added by main
+=======
+loginfeature version update 
+>>>>>>> loginfeature
 
 
 login feature is SICKKK!!!
 
+<<<<<<< HEAD
 added by main
+=======
+
+>>>>>>> loginfeature
